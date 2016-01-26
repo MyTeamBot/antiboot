@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {(136888679)},--Sudo users
+    sudo_users = {(136888679)}
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleSmoke v2 ]]
