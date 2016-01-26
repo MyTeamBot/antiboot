@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {(170616523,136888679)},--Sudo users
+    sudo_users = {(136888679)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleSmoke v2 ]]
@@ -230,8 +230,7 @@ An advance Administration bot based on Vigeo
 
 
 Admins
-@Mr_Vigeo [Sudo1]
-@woesdo1 [Sudo2]
+@Mr_Vigeo [Sudo]
 
 Special thanks to
 awkward_potato
